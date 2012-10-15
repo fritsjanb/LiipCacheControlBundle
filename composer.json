@@ -1,5 +1,5 @@
 {
-    "name": "liip/cache-control-bundle",
+    "name": "fritsjanb/cache-control-bundle",
     "type": "symfony-bundle",
     "description": "This Bundle provides a way to set path based cache expiration headers via the app configuration and provides a helper to control the reverse proxy varnish.",
     "keywords": ["esi", "varnish", "caching", "http"],
